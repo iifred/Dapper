@@ -1,0 +1,10 @@
+G:\AHInsuranceSDK\DemoLib.AHInsuranceWeb\DemoLib.AHInsuranceSDK.DataAccess\bin\Debug\DemoLib.AHInsuranceSDK.DataAccess.dll
+G:\AHInsuranceSDK\DemoLib.AHInsuranceWeb\DemoLib.AHInsuranceSDK.DataAccess\bin\Debug\DemoLib.AHInsuranceSDK.DataAccess.pdb
+G:\AHInsuranceSDK\DemoLib.AHInsuranceWeb\DemoLib.AHInsuranceSDK.DataAccess\bin\Debug\Dapper.dll
+G:\AHInsuranceSDK\DemoLib.AHInsuranceWeb\DemoLib.AHInsuranceSDK.DataAccess\bin\Debug\DemoLib.AHInsuranceSDK.dll
+G:\AHInsuranceSDK\DemoLib.AHInsuranceWeb\DemoLib.AHInsuranceSDK.DataAccess\bin\Debug\DemoLib.AHInsuranceSDK.pdb
+G:\AHInsuranceSDK\DemoLib.AHInsuranceWeb\DemoLib.AHInsuranceSDK.DataAccess\bin\Debug\Dapper.pdb
+G:\AHInsuranceSDK\DemoLib.AHInsuranceWeb\DemoLib.AHInsuranceSDK.DataAccess\bin\Debug\Dapper.xml
+G:\AHInsuranceSDK\DemoLib.AHInsuranceWeb\DemoLib.AHInsuranceSDK.DataAccess\obj\Debug\DemoLib.AHInsuranceSDK.DataAccess.csprojResolveAssemblyReference.cache
+G:\AHInsuranceSDK\DemoLib.AHInsuranceWeb\DemoLib.AHInsuranceSDK.DataAccess\obj\Debug\DemoLib.AHInsuranceSDK.DataAccess.dll
+G:\AHInsuranceSDK\DemoLib.AHInsuranceWeb\DemoLib.AHInsuranceSDK.DataAccess\obj\Debug\DemoLib.AHInsuranceSDK.DataAccess.pdb
